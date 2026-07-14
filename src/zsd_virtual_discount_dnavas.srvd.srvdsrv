@@ -1,0 +1,4 @@
+@EndUserText.label: 'Serevice Definition Virtual Discount'
+define service ZSD_VIRTUAL_DISCOUNT_DNAVAS {
+  expose zcds_proj_virtual_disc_DNAVAS;
+}

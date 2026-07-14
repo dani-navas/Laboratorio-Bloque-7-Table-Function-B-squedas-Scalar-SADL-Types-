@@ -1,0 +1,2 @@
+@EndUserText.label: 'Type Order'
+define type zty_cds_st_order_dnavas : abap.char(10);

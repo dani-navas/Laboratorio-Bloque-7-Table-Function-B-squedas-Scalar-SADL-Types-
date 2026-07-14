@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Reference/Implementation Calc.Discount",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "scalarFunctionName": "ZSF_DIN_CALC_DISCOUNT_DN",
+  "engine": "sqlEngine",
+  "sqlProperties": {
+    "amdpReference": "zCL_CALC_DISCOUNT_dnavas=>get_real_price",
+    "autoExposedInSqlServices": false
+  }
+}

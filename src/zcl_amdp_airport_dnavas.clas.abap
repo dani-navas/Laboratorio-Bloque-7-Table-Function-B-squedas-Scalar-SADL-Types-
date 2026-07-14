@@ -1,0 +1,14 @@
+CLASS zcl_amdp_airport_dnavas DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+  PUBLIC SECTION.
+    INTERFACES if_amdp_marker_hdb.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_amdp_airport_dnavas IMPLEMENTATION.
+ENDCLASS.

@@ -1,0 +1,9 @@
+@EndUserText.label: 'Enum Order'
+define type zty_enum_st_order_dnavas : abap.int2 enum
+{
+  DRAFT      = initial;
+  PROCESSING =       1;
+  SHIPPED    =       2;
+  DELIVERED  =       3;
+  CANCELLED  =       4;
+}
